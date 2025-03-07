@@ -2,12 +2,11 @@
 
 Welcome to the Customizable Grid App! This application is built using Android Studio and allows users to personalize a grid by filling empty boxes with different colors and adding checkmarks. 
 It's designed to be user-friendly and highly customizable, making it easy for users to create and manage their own unique grid layouts.
-![Screenshot 2025-03-07 212552](https://github.com/user-attachments/assets/47506d48-a62b-4ebd-b9eb-bdc039e8b206)
-![Screenshot 2025-03-07 212521](https://github.com/user-attachments/assets/c37dc64d-df34-4283-8b92-54705d46b5fa)
-![Screenshot 2025-03-07 212437](https://github.com/user-attachments/assets/e8cf4166-82d4-452a-bf9f-123f3cc87660)
-![Screenshot 2025-03-07 212418](https://github.com/user-attachments/assets/a70de6c2-e0a4-4ca1-8758-d9b4e8ea17f3)
-![Screenshot 2025-03-07 212625](https://github.com/user-attachments/assets/6d2251b6-dc06-4690-934e-fbaa93005885)
-
+![Screenshot 2025-03-07 212418](https://github.com/user-attachments/assets/17ee2b80-699a-4440-80f0-0775ae4a1231)
+![Screenshot 2025-03-07 212437](https://github.com/user-attachments/assets/75d00cc9-a359-4617-80e8-260f5c79251e)
+![Screenshot 2025-03-07 212521](https://github.com/user-attachments/assets/83c307a6-ab24-41f0-845f-da274899683e)
+![Screenshot 2025-03-07 212552](https://github.com/user-attachments/assets/8e983d02-6cef-4ac8-9889-0a97e8cfd354)
+![Screenshot 2025-03-07 212625](https://github.com/user-attachments/assets/47fcdf4d-10bc-4612-b16a-91562530d96e)
 
 ## Features
 
